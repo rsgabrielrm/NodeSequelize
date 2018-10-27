@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/rsgabrielrm/NodeSequelize/issues"
   },
-  "homepage": "https://github.com/rsgabrielrm/NodeSequelize#readme"
+  "homepage": "https://github.com/rsgabrielrm/NodeSequelize#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.41.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^5.2.0"
+  }
 }
